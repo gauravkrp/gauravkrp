@@ -3,9 +3,9 @@
 Front-end Architect.
 With Entrepreneurial mindset, I am fond of travelling and love to solve real world problems, I carry sense of crafting products around necessity and has a design wit to improve human experiences. A self-taught programmer.
 
-Skills: REACT / JS / HTML / CSS / PhP/ AWS
+Skills: React.js / JS / HTML / CSS / Node.js / PhP / AWS / Wordpress
 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning ML 
 - 👯 I’m looking to collaborate on FinTech projects 
 
 
