@@ -1,4 +1,4 @@
-#### Entrepreneur, Explorer, A self-taught programmer.
+#### Entrepreneur, Explorer, Self-taught programmer.
 
 I am so fond of travelling and love to solve real world problems and to craft products around necessity. I use my design wit to improve human experiences in the product.
 
