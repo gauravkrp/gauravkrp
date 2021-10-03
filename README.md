@@ -1,6 +1,7 @@
 #### Entrepreneur, Explorer, Self-taught programmer.
 
-I am so fond of travelling and love to solve real world problems and to craft products around necessity. I use my design wit to improve human experiences in the product.
+I am very fond of travelling, exploring and love to solve real world problems and to craft products around necessity. 
+I use my design wit to improve human experiences in the product.
 
 I know: React.js (Proficient in Next.js) / JS / TS / HTML / CSS / Node.js / PhP / AWS / Wordpress
 
