@@ -2,7 +2,9 @@
 
 I am so fond of travelling and love to solve real world problems and to craft products around necessity. I use my design wit to improve human experiences in the product.
 
-Skills: React.js (Proficient in Next.js) / JS / TS / HTML / CSS / Node.js / PhP / AWS / Wordpress
+I know: React.js (Proficient in Next.js) / JS / TS / HTML / CSS / Node.js / PhP / AWS / Wordpress
+
+Learn more about me - https://gauravkrp.notion.site/154c835b9ceb42ec897ae97cdd4a6e38
 
 - 🌱 Currently learning ML 
 - 👯 I’m open to collaborate on projects concerning global issues like climate change
