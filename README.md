@@ -6,7 +6,7 @@ A quick learner who believes in detailing and is obsessed with building values.
 
 I know: React.js (Proficient in Next.js) / JS / TS / HTML / CSS / Node.js / PhP / AWS / Wordpress
 
-Learn more about me - https://gauravkrp.notion.site/154c835b9ceb42ec897ae97cdd4a6e38
+Learn more about me - https://gauravkrp.notion.com
 
 - 🌱 Currently exploring ideas in health-tech for my next venture
 - 👯 I’m open to collaborate on projects concerning global issues like climate change, energy, AGI & ASI, food for 8 billion.
