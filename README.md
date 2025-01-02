@@ -1,5 +1,15 @@
 #### Entrepreneur, Explorer.
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/gauravkrp"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 A self-taught and self-starting product-focused software engineer with experience across the stacks. 
 I enjoy working on hard problems and helping products scale. 
 I am very fond of traveling, and exploring, and love to solve real-world problems and craft products around necessity.
