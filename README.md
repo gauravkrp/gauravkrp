@@ -17,7 +17,7 @@
 Product-obsessed software engineer and founder who thrives on hard problems.  
 I build across the stack — from infra to interfaces — and care deeply about craft, scale, and shipping things that matter.
 
-Currently · Founding Engineer @ [Thera (YC S22)](https://www.thera.com)
+Currently · Founding Engineer @ [Thera (YC S22)](https://www.getthera.com)
 
 <br/>
 
